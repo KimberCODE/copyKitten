@@ -1,0 +1,43 @@
+.cell {
+    text-decoration: underline;
+    color: blue;
+    padding: 3px;
+    margin-left: 20px;
+    border: 2px solid black;
+}
+
+#cell-1 {
+    border-top: none;    
+    border-left: none;
+} 
+
+#cell-2 {
+    border-top: none;
+}   
+
+#cell-3 {
+    border-top: none ;
+    border-right: none;
+}
+
+#cell-4 {
+    border-left: none;
+}
+
+#cell-6 {
+    border-right: none;
+}
+
+#cell-7 {
+    border-left: none;
+    border-bottom: none;
+}
+
+#cell-8 {
+    border-bottom: none;
+}
+
+#cell-9 {
+    border-bottom: none;
+    border-right: none;
+}
