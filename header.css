@@ -1,13 +1,15 @@
-ul, a {
+a {
     color: white;
+    letter-spacing: 2px;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
     text-decoration: none;
-    padding: 20px;
+    
 }
 
-li {
+.header-link {
     display:inline-block;
-    
+    margin: 20px;
 
 }
 

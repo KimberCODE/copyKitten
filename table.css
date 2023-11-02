@@ -1,43 +1,27 @@
 .cell {
     text-decoration: underline;
     color: blue;
-    padding: 3px;
+    padding: 6px;
     margin-left: 20px;
     border: 2px solid black;
 }
 
-#cell-1 {
-    border-top: none;    
-    border-left: none;
-} 
+div {
+    margin: 15px;
+}
 
-#cell-2 {
+.row-1 {
     border-top: none;
-}   
-
-#cell-3 {
-    border-top: none ;
-    border-right: none;
 }
 
-#cell-4 {
+.column-1{
     border-left: none;
 }
 
-#cell-6 {
-    border-right: none;
-}
-
-#cell-7 {
-    border-left: none;
+.row-3{
     border-bottom: none;
 }
 
-#cell-8 {
-    border-bottom: none;
-}
-
-#cell-9 {
-    border-bottom: none;
+.column-3{
     border-right: none;
 }
